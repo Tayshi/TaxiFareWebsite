@@ -1,13 +1,5 @@
 import streamlit as st
 
-# import fast.py
-from datetime import datetime
-import pytz
-import pandas as pd
-import joblib
-from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
-
 # import controllers streamlit
 import datetime
 
